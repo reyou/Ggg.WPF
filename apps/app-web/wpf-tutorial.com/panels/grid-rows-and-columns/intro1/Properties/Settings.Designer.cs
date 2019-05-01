@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GggWpfApp.Properties
+namespace intro1.Properties
 {
 
 

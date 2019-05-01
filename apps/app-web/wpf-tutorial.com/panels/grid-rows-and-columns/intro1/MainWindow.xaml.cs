@@ -10,16 +10,17 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace GggWpfApp.ControlsSamples
+namespace intro1
 {
     /// <summary>
-    /// Interaction logic for RibbonWindowSample.xaml
+    /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class RibbonWindowSample : Window
+    public partial class MainWindow : Window
     {
-        public RibbonWindowSample()
+        public MainWindow()
         {
             InitializeComponent();
         }
